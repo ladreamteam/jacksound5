@@ -1,0 +1,10 @@
+#netbeans
+nbproject/
+
+#npm
+node_modules/
+
+#grunt
+dist/
+public/
+

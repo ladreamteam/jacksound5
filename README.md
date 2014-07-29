@@ -1,4 +1,4 @@
-jacksound5
+JackSound5
 ==========
 
 FRONT-END
